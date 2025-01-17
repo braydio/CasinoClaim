@@ -1,0 +1,16 @@
+# Environment / Dev stuff
+.env
+*venv
+dev*
+
+# Python artifacts
+__pycache__/*
+*.pyc
+
+# Other
+*.db
+*log
+*logs
+
+# Feel like google-chrome can be ignored as it's user specific?
+google-chrome/
